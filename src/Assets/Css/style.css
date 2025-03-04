@@ -1,0 +1,122 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*  Index Page css */
+
+.body-font-family {
+    font-family: "Inter", sans-serif;
+}
+
+.text-color {
+    color: #015FC9 !important;
+}
+
+.text-color-light {
+    color: #787878 !important;
+}
+
+.bg-color {
+    background-color: #015FC9 !important;
+}
+
+.bg-color-contact {
+    background-color: #16243D !important;
+}
+
+
+
+.search-circle {
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 50% !important;
+    background-color: #015FC9 !important;
+}
+
+
+
+.bg-color-abt {
+    background-color: #F5F5F5 !important;
+}
+
+.img-relative {
+    position: relative !important;
+}
+
+.icon-absolute {
+    position: absolute !important;
+    margin-left: 11rem !important;
+}
+
+.square-icon {
+    width: 50px !important;
+    height: 50px !important;
+    background-color: #015FC9 !important;
+    color: white !important;
+    border-radius: 12px !important;
+    text-align: center !important;
+    align-content: center !important;
+}
+
+
+.testimonial-img {
+    max-width: 140px !important;
+    
+}
+.text-color-light {
+    font-size: 14px !important;
+}
+
+/* About Page Css */
+
+.bg-img-about {
+    background-image: url("../Images/Background-5.png") !important;
+    padding: 138px 0 !important;
+    height: auto !important;
+    background-repeat: no-repeat !important;
+    background-size: auto !important;
+}
+
+
+
+
+/* Media query */
+
+@media (max-width: 480px) {
+
+    .testimonial-img {
+        max-width: 80px !important;
+        /* Further reduce image size for extra-small screens */
+        margin-bottom: 15px !important;
+    }
+
+    .h4 {
+        font-size: 18px !important;
+        /* Adjust heading size */
+        margin-bottom: 5px !important;
+    }
+
+    .text-color-light {
+        font-size: 12px !important;
+        /* Reduce font size */
+    }
+
+    .star-rating i {
+        font-size: 14px !important;
+        /* Smaller star icons */
+    }
+
+    .text-color-light.mt-2 {
+        margin-top: 10px !important;
+        line-height: 1.4 !important;
+        /* Improve line spacing */
+    }
+}
+
+@media only screen and (max-width: 345px) {
+    .nav-logo-img{
+        width: 80px;
+    }
+  }
