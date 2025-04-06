@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c95599c7.css",
+    "main.js": "/static/js/main.77979595.js",
+    "static/media/Background-5.png": "/static/media/Background-5.422747d57e1020b56b2f.png",
+    "static/media/contact-img.png.png": "/static/media/contact-img.png.ea9a140adc414fbc4522.png",
+    "static/media/team-3.jpg.png": "/static/media/team-3.jpg.bbf97a15d3e987e3c26e.png",
+    "static/media/team-1.jpg.png": "/static/media/team-1.jpg.d41cccec48165b9df8d9.png",
+    "static/media/team-2.jpg.png": "/static/media/team-2.jpg.89104c223bb4e97527d3.png",
+    "static/media/carousel.png": "/static/media/carousel.bed5899f8e1fbc611ae8.png",
+    "static/media/about-1.png.png": "/static/media/about-1.png.0162bcd823a476641df1.png",
+    "static/media/team-4.jpg.png": "/static/media/team-4.jpg.283a18a6fde537f5d142.png",
+    "static/media/blog-4.png.png": "/static/media/blog-4.png.9406d90cb3e6be23069c.png",
+    "static/media/testimonial-3.jpg.png": "/static/media/testimonial-3.jpg.efb845b1703d7b3234a5.png",
+    "static/media/testimonial-2.jpg.png": "/static/media/testimonial-2.jpg.ddde65608eeb977a9fd3.png",
+    "static/media/blog-1.png.png": "/static/media/blog-1.png.631d4f69197520760aec.png",
+    "static/media/blog-3.png.png": "/static/media/blog-3.png.3afd12b713ea7b52dca8.png",
+    "static/media/blog-2.png.png": "/static/media/blog-2.png.3b47f5d14d5887d232b8.png",
+    "static/media/instagram-footer-1.jpg.png": "/static/media/instagram-footer-1.jpg.e96c3b2a7723e88045a8.png",
+    "static/media/instagram-footer-2.jpg.png": "/static/media/instagram-footer-2.jpg.9d9a28c8271cb39c0dad.png",
+    "static/media/instagram-footer-3.jpg.png": "/static/media/instagram-footer-3.jpg.be9dcc788c51e2c48f38.png",
+    "static/media/instagram-footer-5.jpg.png": "/static/media/instagram-footer-5.jpg.994974d31be28c77bd91.png",
+    "static/media/instagram-footer-4.jpg.png": "/static/media/instagram-footer-4.jpg.d66ec8a383447582612f.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.c95599c7.css.map": "/static/css/main.c95599c7.css.map",
+    "main.77979595.js.map": "/static/js/main.77979595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95599c7.css",
+    "static/js/main.77979595.js"
+  ]
+}
